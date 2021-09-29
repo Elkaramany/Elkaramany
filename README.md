@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elkaramany
 - 👀 I’m interested in Full stack development ( React Native, Node JS, Express, Firebase, MongoDB, PostgresQL, MySQL )
-- 🌱 I’m currently learning Database management
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: MostafaElkaramany@hotmail.com
 
 <!---
